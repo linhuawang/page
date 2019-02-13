@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Experience
-permalink: /experience/
+title: Me
+permalink: /me/
 ---
 
 Birth Place: Shangrao, Jiangxi Province, China. <br/>
 Hometown: Shenzhen, Guangdong Province, China. <br/>
 Birth Year: 1994. <br/>
-<img src="ismb2018.jpeg" alt="2018 ISMB with HR"></img>
+![2018 ismb](ismb2018.jpg){:class="img-responsive"}
 <p>
 	I prefer to be called Alex if you are not able to pronounce Mandarin. I come from Shenzhen, a modern city in the south of China. I enjoy hotpot, noodles, fried rice, bbq, .... hmm, all kinds of food. I play video games, watch movies and do road trips during my leisure time. 
 </p>
