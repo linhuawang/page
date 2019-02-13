@@ -23,39 +23,30 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/ -->
-<!DOCTYPE html>
-<html>
 
 I sometimes want to test my code on a cluster and don't want to download codes/data to my desktop. Under such circumstances, I usually use jupyter notebook on the cluster and use the terminal on my desktop to send instructions and visualize intermediate results. In this post, I will show you how I do it.
 
 Let's say, your cluster address is `hpc.cluster.com`, your user name is `linhuaw`, and you want to work in the directory `/path/to/work`.
-<head>
-	STEP 1: log into the cluster and go to the working folder.
-</head>
+
+# STEP 1: log into the cluster and go to the working folder.
 {% highlight ruby %}
 > ssh linhuaw@hpc.cluster.com
 > password:
 > cd /path/to/work
 {% endhighlight %}
 
-<head>
-	STEP 2: invoke notebook in the working directory on the cluster.
-</head>
+# STEP 2: invoke notebook in the working directory on the cluster.
 {% highlight ruby %}
 > jupyter notebook --no-browser --port=8888
 {% endhighlight %}
 
-<head>
-	STEP 3: open a local terminal, and type: 
-</head>
+# STEP 3: open a local terminal, and type: 
 {% highlight ruby %}
 > ssh -N -f -L localhost:8888:localhost:8888 linhuaw@hpc.cluster.com
 > password: 
 {% endhighlight %}
 
-<head>
-	STEP 4: open a browser, and type: `localhost: 8888`
+# STEP 4: open a browser, and type: `localhost: 8888`
 
 Now, you are good to go.
 
-</html>
