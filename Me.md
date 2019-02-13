@@ -1,15 +1,16 @@
 ---
 layout: page
-title: Me
-permalink: /me/
+title: Experience
+permalink: /experience/
 ---
-Birth Place: Shangrao, Jiangxi Province, China
-Hometown: Shenzhen, Guangdong Province, China
-Birth Year: 1994
-Education:
+<img src="me.jpg" alt="Alex's selfie" class="center" style="border=1" width="250" height="300">
+<p>Birth Place: Shangrao, Jiangxi Province, China. </p>
+<p>Hometown: Shenzhen, Guangdong Province, China. </p>
+<p>Birth Year: 1994. </p>
+<p>Education: </p>
 <ul>
 	<li>B.S. in Biotechnology, Sun Yat-sen University, 2011 - 2015. <li/>
 	<li>M.S. in Computational Biology, Carnegie Mellon University, 2015 - 2017. <li/>
-</ul>
+
 
 
