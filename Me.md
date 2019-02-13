@@ -6,7 +6,6 @@ markup: markdown
 permalink: /me/
 ---
 
-<!-- ## More about my experience -->
 <p>
 Birth Place: Shangrao, Jiangxi Province, China
 </p>
