@@ -4,8 +4,10 @@
 
 layout: home
 ---
-<body bgcolor="#E6E6FA">
 <img src="me.jpg" alt="Alex's selfie" class="center" style="border=1">
 <p>
-My name is Linhua Wang. I am currently a Bioinformatician at Icahn School of Medicine at Mount Sinai. My career interests include data science and human diseases. I have a B.S. degree in Biotechnology and an M.S. in Computational Biology. I will start my PhD study this fall! 
+My name is Linhua Wang, and I prefer to be called Alex if you are not able to pronounce Mandarin. I enjoy hotpot, noodles, fried rice, bbq, .... hmm, all kinds of food. I play video games, watch movies and do road trips during my leisure time. 
+</p>
+<p>
+From career perspective, I like researching computational biology which is an interdiscpline involving computer science, biology and mathematics. My professional goal is to build a 'geological map' of human body (GMHB) so that human health can be viewed integratively from diverse perspectives. I believe it can improve our understanding of diseases and help treatments. Just like how google map tells us which route from one place to another is better in terms of time consuming or tolls, eventually, such a GMHB system might help us decide what treatment is needed for a specific pateint in certain circumstances. I'll start my PhD study this Fall.
 </p>
