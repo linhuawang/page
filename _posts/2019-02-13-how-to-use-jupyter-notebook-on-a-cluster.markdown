@@ -23,10 +23,12 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/ -->
+<!DOCTYPE html>
+<html>
 
-I sometimes want to test my code on a cluster and don't want to download codes/data to my desktop. Under such circumstances, I usually use jupyter notebook on the cluster and use the terminal on my desktop to send commands and visualize intermediate results. In this post, I will show how I do it.
+I sometimes want to test my code on a cluster and don't want to download codes/data to my desktop. Under such circumstances, I usually use jupyter notebook on the cluster and use the terminal on my desktop to send instructions and visualize intermediate results. In this post, I will show you how I do it.
 
-Let's say, your cluster address is `hpc.cluster.com`, your user name is linhuaw, and you want to work in the directory `/path/to/work`.
+Let's say, your cluster address is `hpc.cluster.com`, your user name is `linhuaw`, and you want to work in the directory `/path/to/work`.
 <head>
 	STEP 1: log into the cluster and go to the working folder.
 </head>
@@ -56,4 +58,4 @@ Let's say, your cluster address is `hpc.cluster.com`, your user name is linhuaw,
 
 Now, you are good to go.
 
-
+</html>
