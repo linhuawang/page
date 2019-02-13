@@ -3,7 +3,7 @@ layout: page
 title: Experience
 permalink: /experience/
 ---
-<img src="me.jpg" alt="Alex's selfie" class="center" style="border=1" width="216" height="288">
+<img src="me.jpg" alt="Alex's selfie" class="center" style="border=1">
 <p>Birth Place: Shangrao, Jiangxi Province, China. </p>
 <p>Hometown: Shenzhen, Guangdong Province, China. </p>
 <p>Birth Year: 1994. </p>
