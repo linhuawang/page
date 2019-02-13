@@ -4,7 +4,6 @@
 
 layout: home
 ---
-<img src="me.jpg" alt="Alex's selfie" class="center" style="border=1">
 <p>
 My name is Linhua Wang, and I prefer to be called Alex if you are not able to pronounce Mandarin. I enjoy hotpot, noodles, fried rice, bbq, .... hmm, all kinds of food. I play video games, watch movies and do road trips during my leisure time. 
 </p>
