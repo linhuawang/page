@@ -18,8 +18,3 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll -->
 All contents in this blog are not for commerical purposes. Ideas/solutions might be borrowed/learned from other resources including `Stack Overflow`, `Wikipedia`, `Google`, other organizations and individuals. I very much appreciate your sharing of knowledge. Posts related to technical issues are only to avoid waste of time looking for solutions in my future study and research. I intentionally collect all info that are useful to me to my blog so that I can read later. I will cite the sources if they are from elsewhere and still avaliable. Please don't use for other purposes.
-
-{% assign sorted_pages = site.pages | sort:"order" %}
-{% for node in sorted_pages %}
-  <li><a href="{{node.url}}">{{node.title}}</a></li>
-{% endfor %}
