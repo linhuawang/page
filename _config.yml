@@ -21,20 +21,19 @@ baseurl: "page" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: linhuaw_w
 github_username:  linhuawang
-copyright: All contents in this blog are not for commerical purposes. Ideas/solutions might be borrowed/learned from other resources including `Stack Overflow`, `Wikipedia`, `Google`, other organizations and individuals. I very much appreciate your sharing of knowledge. Posts related to technical issues are only to avoid waste of time looking for solutions in my future study and research. I intentionally collect all info that are useful to me to my blog so that I can read later. I will cite the sources if they are from elsewhere and still avaliable. Please don't use for other purposes.
+#copyright: All contents in this blog are not for commerical purposes. Ideas/solutions might be borrowed/learned from other resources including `Stack Overflow`, `Wikipedia`, `Google`, other organizations and individuals. I very much appreciate your sharing of knowledge. Posts related to technical issues are only to avoid waste of time looking for solutions in my future study and research. I intentionally collect all info that are useful to me to my blog so that I can read later. I will cite the sources if they are from elsewhere and still avaliable. Please don't use for other purposes.
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
 
+{% assign pages_list = site.pages %}
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
- exclude:
-   - Me.md
-   - about.md
+# exclude:
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules

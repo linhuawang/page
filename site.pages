@@ -1,0 +1,8 @@
+ <div class="navbar" id="page-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="/">EverCoding.net</a>
+          <ul class="nav">
+            <li><a href="https://linhuawang.github.io/page/">Home</a></li>        
+        <li><a href="https://linhuawang.github.io/page/research">Research</a></li>
+        <li><a href="https://linhuawang.github.io/page/about">About</a></li>
