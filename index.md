@@ -13,3 +13,5 @@ My name is Linhua (Alex) Wang. I prefer to be called Alex if you are not able to
 
 In this blog, I will post my study notes, solutions to technical issues, good or bad memories and etc. Email me if you find anything interesting or useful. &#9786;   
 
+Starting from July 24th, I will be a Ph.D. student at Baylor College of Medicine. Feeling excited about the life in Houston.
+
