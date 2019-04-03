@@ -5,12 +5,13 @@ permalink: /research/
 order: 4
 ---
 
-# Projects
+## Projects
 
-# Publications
-* Journals
+## Publications
 
-* Conferences
+# Journals
+
+# Conferences
 
 
 
