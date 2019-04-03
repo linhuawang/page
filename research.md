@@ -8,10 +8,9 @@ order: 4
 # Projects
 
 # Publications
+* Journals
 
-## Journals
-
-## Conferences
+* Conferences
 
 
 
