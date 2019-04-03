@@ -33,6 +33,8 @@ plugins:
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 # exclude:
+#   - Me.md
+#   - about.md
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
