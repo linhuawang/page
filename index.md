@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-title: Home
+title: ''
 order: 1
 ---
 <!-- <img src="me.jpg" alt="Alex's selfie" class="center" style="border=1"> -->
